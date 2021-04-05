@@ -14,6 +14,6 @@ Medium [@rishipr](https://medium.com/@rishipr)
 
 ## 🔭 Links
 
+- [Website](https://rishipr.sh) - Personal website
 - [Dribbble](https://dribbble.com/rishipr) - Design portfolio
-- [Github](https://github.com/rishipr) - This repo
 - [Medium](https://medium.com/@rishipr) - Blog about tech and organizations
